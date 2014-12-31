@@ -1,0 +1,6 @@
+Door02LockColor1      - base version
+Door02LockColor1-1   - first version
+Door02LockColor1-2   - next version
+							...					...
+							
+modify this file if you add next version
